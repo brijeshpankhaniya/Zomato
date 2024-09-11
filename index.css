@@ -38,4 +38,27 @@
 }
 .search-bar{
     padding: 5px 10px;
+    display: flex;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-card{
+    margin: 5px;
+    width: 200px;
+    height: 400px;
+    background-color: lightcyan;
+}
+.login{
+    margin: 10px;
+    width: 100px;
+    cursor: pointer;
+}
+.top-btn{
+    margin-left: 10px;
+}
+.search-btn{
+    margin-left: 5px;
 }
